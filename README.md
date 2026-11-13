@@ -6,7 +6,7 @@
 - 永久免费,虽然我老婆觉得搞事情一定要能赚钱才行,觉得好用就扫下面的二维码打赏一下吧.
 - 手机端和TV端app可以共存 (解决某些安卓机器如zflip5外接电视时装TV端不用覆盖手机端app)
   
-尊重作者.此项目是基于https://github.com/FongMi/Release/releases空壳项目二次编译而成
+尊重作者.此项目是基于 https://github.com/FongMi/Release/releases 空壳项目二次编译而成
 本仓库仅用于发布四叶草TV各平台安装包.
 
 ## 下载
