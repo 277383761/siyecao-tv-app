@@ -16,12 +16,12 @@
 
 | 文件 | 适用设备 |
 | --- | --- |
-| `四叶草TV-6.0.9-安卓7+-手机-arm64-v8a.apk` | 手机版 6.0.9 — 安卓 7 及以上（64 位，主流机型） |
-| `四叶草TV-6.0.9-安卓7+-手机-armeabi-v7a.apk` | 手机版 6.0.9 — 安卓 7 及以上（32 位） |
-| `四叶草TV-6.0.9-安卓7+-电视-arm64-v8a.apk` | TV 版 6.0.9 — 安卓电视 / 盒子，安卓 7+（64 位） |
-| `四叶草TV-6.0.9-安卓7+-电视-armeabi-v7a.apk` | TV 版 6.0.9 — 安卓电视 / 盒子，安卓 7+（32 位） |
-| `四叶草TV-6.0.9-安卓5-6-手机-armeabi-v7a.apk` | 手机版 6.0.9 — 安卓 5 / 6 老设备 |
-| `四叶草TV-6.0.9-安卓5-6-电视-armeabi-v7a.apk` | TV 版 6.0.9 — 安卓 5 / 6 老设备 |
+| `siyecao-mobile-android7plus-6.0.9-arm64-v8a.apk` | 手机版 6.0.9 — 安卓 7 及以上（64 位，主流机型） |
+| `siyecao-mobile-android7plus-6.0.9-armeabi-v7a.apk` | 手机版 6.0.9 — 安卓 7 及以上（32 位） |
+| `siyecao-tv-android7plus-6.0.9-arm64-v8a.apk` | TV 版 6.0.9 — 安卓电视 / 盒子，安卓 7+（64 位） |
+| `siyecao-tv-android7plus-6.0.9-armeabi-v7a.apk` | TV 版 6.0.9 — 安卓电视 / 盒子，安卓 7+（32 位） |
+| `siyecao-mobile-android5-6-6.0.9-armeabi-v7a.apk` | 手机版 6.0.9 — 安卓 5 / 6 老设备 |
+| `siyecao-tv-android5-6-6.0.9-armeabi-v7a.apk` | TV 版 6.0.9 — 安卓 5 / 6 老设备 |
 | `siyecao-macOS-6.0.9.dmg` | macOS 6.0.9 — Apple 芯片 |
 | `siyecao-windows-6.0.9-win32-x64.zip` | Windows 6.0.9 64 位，绿色便携版，解压后运行目录内的 `四叶草TV.exe` |
 
